@@ -1,6 +1,3 @@
-#Code by Rohit Reddy
-#July 4, 2019
-#Released under GNU GPL
 import numpy as np
 import matplotlib.pyplot as plt
 
